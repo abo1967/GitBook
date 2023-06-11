@@ -48,14 +48,6 @@ The recommended code editor is [_**Visual Studio Code**_](https://code.visualstu
 brew install git
 ```
 
-## **GitLab Workflow Extension for Visual Studo Code**
-
-The _**GitLab Workflow Extension for Visual Studio Code**_ is a tool that integrates GitLab's features into the code editor, providing developers with convenient access to GitLab repositories, issue tracking, CI/CD pipelines, and other collaborative functionalities directly within the development environment.
-
-1. From within _**Visual Studio Code**_, go to `Settings -> Extensions`
-2. Search for "Gitlab Workflow" and click on "Install".
-3. In the _**Gitlab Workflow Extension**_ details page, follow the instructions to set up your access token(s)
-
 ## **Directories for Projects and Tools**&#x20;
 
 The development directory is used to store project files as well as some development tools installed at the user level (e.g., _**Flutter**_).&#x20;
