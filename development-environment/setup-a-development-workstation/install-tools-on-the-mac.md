@@ -22,6 +22,8 @@ A terminal application is used both for command-line access to macOS and to log 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+3. Just a test
+
 Make sure the follow the installation instructions to ensure that _**Homebrew**_ is added the to the _PATH_.
 
 ## Visual Studio Code&#x20;
